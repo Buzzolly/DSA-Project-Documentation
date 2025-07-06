@@ -12,4 +12,5 @@ For each selected case study, we are to carry out a comprehensive Exploratory Da
 
 
 ##### Case Study 3
-![image](https://github.com/user-attachments/assets/0eb8900b-d2d7-4997-9bef-479b9a9f6d77)
+![image](https://github.com/user-attachments/assets/b374c1cb-cbc2-4488-8733-dd848e6c7ff2)
+
